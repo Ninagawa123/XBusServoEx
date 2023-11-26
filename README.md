@@ -18,3 +18,10 @@ The same applies when using other serial interfaces.
 
 # DEMO
 To use ESP32DevKitC and Serial2, try sample sketch ESP32_demo.ino.
+
+connection
+|XBusServo|-|ESP32|
+|-|-|-|
+|outside black|-|GND|
+|center black|-|5V or Power|
+|outside white|-|pin 17|
