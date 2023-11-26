@@ -17,7 +17,7 @@ When using Serial2, the following four commands should be modified:
 The same applies when using other serial interfaces.
 
 # DEMO
-To use ESP32DevKitC and Serial2, try sample sketch ESP32_demo.ino.
+To use ESP32DevKitC and Serial2, try sample sketch [ESP32_demo.ino](https://github.com/Ninagawa123/XBusServoEx/blob/main/examples/ESP32_demo/ESP32_demo.ino).
 
 connection
 |XBusServo|-|ESP32|
