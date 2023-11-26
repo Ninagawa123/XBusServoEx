@@ -22,7 +22,7 @@ void setup()
 
 void sendPacket()
 {
-  myXBusServo.sendChannelDataPacket();
+  myXBusServo.sendChannelDataPacket2();
 }
 
 
